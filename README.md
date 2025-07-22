@@ -1,4 +1,4 @@
-# 🧾 HR Analytics Power BI Dashboard - README
+# 🧾 HR Dataset Analysis using Power BI
 
 ## 📌 Overview
 
@@ -11,7 +11,7 @@ This project uses Power BI to analyze an HR dataset covering key workforce infor
 **Data Source**: Internal HR Data
 **Number of Records**: \~1000+ (sample shown)
 **Data Format**: Excel / CSV
-**Filename**: `HR_Employee_Dataset.csv` or similar
+**Filename**: `HR_Dataset.csv`
 
 ### 📊 Key Columns:
 
@@ -115,17 +115,3 @@ This project uses Power BI to analyze an HR dataset covering key workforce infor
 2. Click **Refresh** to load the latest data.
 3. Interact with slicers and visuals to explore trends.
 4. Export or share insights as needed.
-
----
-
-## 🛡️ Data Privacy Notice
-
-This dataset contains **sensitive employee information**. Ensure all use complies with data protection regulations (e.g., GDPR, HIPAA, internal policies). Mask or anonymize data when sharing externally.
-
----
-
-## 📬 Contact
-
-For any issues or suggestions, reach out to the **People Analytics** team or the assigned project owner.
-
----
